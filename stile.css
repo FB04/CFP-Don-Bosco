@@ -21,23 +21,27 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: normal;
+    padding: 5px;
+}
+
+#logo {
+    height: 75px;
+    width: 175px;
+    padding-left: 200px;
 }
 
 #fascia-navigazione {
-    background-color: red;
+    background-color: rgb(105, 22, 22);
     height: 91px;
     padding-right: 200px;
     top: 35px;
 }
 
 #fascia-navigazione a {
-    height: 20px;
-    left: 550px;
     text-decoration: none;
-    top: 67px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     color: #4971FF;
-    top: 67px;
-    padding: 45.5px;
+    padding: 10px;
+    line-height: 91px;
 }
